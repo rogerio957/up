@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1,OTT 1
+https://videos-3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w1055256791.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwM5a3cj6ABfrohzln7RNu4o947Xj7P72NEJSTqyuaIE4
+#EXTINF:-1,OTT 2	
+https://videos-3.earthcam.com/fecnetwork/15559.flv/chunklist_w1986979501.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwLmZbnyZEI4g%2B5UxOuhZchnwlRPIoMevSPmyTSV0hcT3
+#EXTINF:-1,OTT 3
+https://videos-3.earthcam.com/fecnetwork/3983.flv/chunklist_w1597877132.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwJfINlqCF4IMd9xxQGyQk9%2BfABBmUVCCWpeqSLXA3pvr
+#EXTINF:-1,OTT 4
+https://videos-3.earthcam.com/fecnetwork/9974.flv/chunklist_w874354009.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwJ25Ip9EU7MjZ02MD3hU9aEVDtShdWIUheCGsLhgsrMw
+#EXTINF:-1,OTT 5
+https://videos-3.earthcam.com/fecnetwork/15200.flv/chunklist_w407094859.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwP0LM6dFhUdAPEISUvIUvm3rZD%2BY91iPV9Ug81VbVQqe
+#EXTINF:-1,OTT 6
+https://videos-3.earthcam.com/fecnetwork/15527.flv/chunklist_w569012826.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwLH87KU1NaiYT9hcyxxamLLXzWxbEBohjW1%2B2JyiX%2FdP
+#EXTINF:-1,OTT 7
